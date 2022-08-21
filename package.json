@@ -1,25 +1,27 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://nrohovoi.github.io/goit-js-hw-08/",
+  "homepage": "https://nrohovoi.github.io/goit-js-hw-09/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "https://https://github.com/NRohovoi/goit-js-hw-08"
+    "url": "https://https://github.com/NRohovoi/goit-js-hw-09"
   },
   "keywords": [],
   "author": "Nikita Rohovoi <NRohovoi@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/github.com/NRohovoi/goit-js-hw-08/issues"
+    "url": "https://github.com/github.com/NRohovoi/goit-js-hw-09/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
+    "flatpickr": "^4.6.13",
     "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5",
     "simplelightbox": "^2.10.3",
     "vimeo": "^2.1.1"
   },
